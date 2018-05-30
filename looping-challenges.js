@@ -1,3 +1,4 @@
+// LOOPING 1
 console.log('LOOPING PERTAMA');
 var n = 2;
 while (n < 21) {
@@ -14,6 +15,9 @@ while (n > 0) {
 
 
 
+
+
+// LOOPING 2
 console.log('LOOPING PERTAMA');
 for (var i = 1; i < 21; i++) {
 	console.log(i + ' - I love coding');
@@ -26,6 +30,9 @@ for (var i = 20; i > 0; i--) {
 
 
 
+
+
+// LOOPING 3
 for (var i = 1; i < 101; i++) {
 	if (i % 2 == 0) {
 		console.log('GENAP');
@@ -60,11 +67,19 @@ for (var i = 1; i < 101; i = i + 9) {
 
 
 
+
+
+// LOOPING 1
 var row1 = 5;
 for (var i = 0; i < row1; i++) {
 	console.log('*');
 }
 
+
+
+
+
+// LOOPING 2
 var row2 = 5;
 for (var i = 0; i < row2; i++) {
 	var asterisk = '';
@@ -74,6 +89,11 @@ for (var i = 0; i < row2; i++) {
 	console.log(asterisk);
 }
 
+
+
+
+
+// LOOPING 3
 var row3 = 5;
 for (var i = 0; i < row3; i++) {
 	var asterisk = '';
