@@ -41,8 +41,8 @@ console.log(getReport(grades1));
 
 /*
 [
-  { classCode: 'A', passed: [ 'Siti', 'Aaron' ], failed: [ 'John' ] },
-  { classCode: 'B', passed: [ 'Mike', 'Osass' ], failed: [] },
-  { classCode: 'C', passed: [ 'Arthur' ], failed: [ 'Budi', 'Yolo' ] },
+  { classCode: 'A', passed: [ 'John' ], failed: [ 'Siti', 'Aaron' ] },
+  { classCode: 'B', passed: [], failed: [ 'Mike', 'Osass' ] },
+  { classCode: 'C', passed: [ 'Budi', 'Yolo' ], failed: [ 'Arthur' ] },
 ]
 */
